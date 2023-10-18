@@ -19,7 +19,7 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](movie_001 (1).gif)
+![結果画像](movie_001.gif)
 
 ![シェーダグラフ](result_node_graph.png)
 
