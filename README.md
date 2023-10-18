@@ -21,7 +21,7 @@ src フォルダをUnityで開きます。
 
 ![結果画像](movie_001.gif)
 
-![シェーダグラフ](result_node_graph.png)
+![シェーダグラフ](reesult_node_graph.png)
 
 ## 自分なりに変更した点
 - ノードを綺麗に整理した
